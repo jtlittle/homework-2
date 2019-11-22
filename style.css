@@ -1,0 +1,15 @@
+
+.image-container {
+    float: left;
+    margin-right: 10px;
+  }
+  
+  .main{
+    width: 900px;
+    margin: auto;
+    margin-top: 5%;
+    padding: 10px 30px 10px 30px;
+    background-color: white;
+    border: 1px #dddddd solid;
+  }
+
